@@ -1,0 +1,6 @@
+langchain-google-genai
+langchain
+duckduckgo-search
+pyttsx3
+python-dotenv
+numpy
